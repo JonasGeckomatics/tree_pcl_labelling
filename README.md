@@ -3,8 +3,8 @@
 
 This package provides a solid fundation for Live AR applications in Python via OpenCV. Just calibrate your camera in a few commands then starts displaying 3d shapes on your chessboard. Take a look at the 3d rendering of a plain cube in action (live footage):
 
-![](fig.html)
+<!-- ![](fig.html)
 
-{% include fig.html %}
+{% include fig.html %} -->
 
 https://jonasgeckomatics.github.io/tree_pcl_labelling/
